@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudrProgrammer
-- 👀 I’m interested in ... Learning more
-- 🌱 I’m currently learning ... Python and JAVA
+- 👀 I’m interested in ... Playing CTFs
+- 🌱 I’m currently learning ... Python, Cryptography and CLI
 - 💞️ I’m looking to collaborate on ... not really much but I am currently working on a big project but its very confidential so yaa right now, no collabs etc
 - 📫 How to reach me ... You can reach me with my email rudrpsingh@rediffmail.com
 
